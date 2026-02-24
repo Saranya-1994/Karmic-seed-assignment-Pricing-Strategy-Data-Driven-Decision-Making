@@ -96,7 +96,7 @@ Step 5 → ACoS Correction           (+3% nudge if ACoS > 30%)
 | **Month 2** | Monthly pricing refresh + ACoS bid optimization |
 | **Quarter 2** | Build automated pricing tool (Python / Google Apps Script) |
 
----
+![preview_page9_supplementary](https://github.com/user-attachments/assets/89a5b4b1-1480-49ed-840a-fd72e0bd73ab)
 
 ## ⚠️ Key Assumptions & Limitations
 
